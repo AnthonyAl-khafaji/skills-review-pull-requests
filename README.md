@@ -30,7 +30,7 @@ Now let's see how easy it is to [apply your suggestion](https://docs.github.com/
 1. Click **Commit suggestion**.
 1. Type a commit message.
 1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instruction)
+1. Wait about 20 seconds then refresh this page 
 
 <footer>
 
